@@ -1,4 +1,4 @@
 # PhoneExpress
 An E-commerce site to purchase mobile phones
 
-Live Website: https://ian-of-yore.github.io/PhoneExpress/
+Live Website: https://phone-express-yellowsubmarine.netlify.app/

@@ -23,8 +23,21 @@
             </div>
         </section>
         <section>
-            <div id="phone-container" class="row row-cols-1 row-cols-md-3 g-4">
+            <!-- No Phone Found Message -->
+            <div id="no-phone-found" class="mb-5 d-none">
+                <h3 class="text-danger text-center">No Phone Found! Please Search Again</h3>
+            </div>
 
+            <!-- Spinner -->
+            <div id="spinner" style="height: 400px;" class="d-flex justify-content-center align-items-center d-none">
+                <div class="spinner-border text-success" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                </div>
+            </div>
+
+
+            <!-- Phone Container -->
+            <div id="phone-container" class="row row-cols-1 row-cols-md-3 g-4">
             </div>
         </section>
     </main>
